@@ -53,7 +53,7 @@ Web application for salon booking that allows users to register, login, and book
 ## Flowchart
 
 
-![Flowchart](./screenshots/Flowchart.png)
+![Flowchart](screenshots/Flowchart.jpg)
 
 ## Screenshots
 - Home Page
